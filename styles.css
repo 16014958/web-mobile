@@ -1,0 +1,146 @@
+body {
+  background-color: #441E13;
+  color:white;
+}
+
+
+
+
+.logo{
+  width: 200px;
+  font-size: 2.5rem;
+  font-weight: bold;
+  float:left;
+
+}
+.slogan{
+width: 380px;
+float:left;
+margin-top: 15px;
+font-family: sans-serif;
+font-size: 0.9rem;
+color: #A37B71
+}
+
+.logoContainer {
+  overflow:hidden;
+max-width: 920px;
+margin-left: auto;
+margin-right: auto;
+}
+.nav {
+  height: 50px;
+  width: 920px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgba(0, 0, 0, 0.25);
+  padding: 0px 10px;
+ padding-top: 18px;
+}
+
+
+.nav li {
+  display: block;
+  float: left;
+  font-family: sans-serif;
+  padding: 6px 20px;
+  border-right: 1px solid #D4B364
+
+}
+
+.nav li:last-child{
+  border-right: none;
+}
+
+
+
+
+.ABOUT {
+  max-width: 920px;
+  max-height: 400px;
+  font-family: sans-serif;
+  font-size: 3.5rem;
+  font-weight: bold;
+  background-color: #87A984;
+  margin-left:  auto;
+  margin-right: auto;
+  padding-bottom: 0px;
+}
+
+.header{
+  max-width: 450px;
+  font-family: sans-serif;
+  font-size: 3.5rem;
+  margin-left: auto;
+  margin-right: -55px;
+  margin-top: -200px;
+  max-width: 920px;
+
+}
+
+
+
+.statement{
+font-size: 1rem;
+float:right;
+max-width: 500px;
+margin-top: 20px;
+margin-right: -55px;
+font-family: sans-serif;
+font-weight: lighter;
+padding-right: 420px;
+
+}
+
+.menulist{
+  width: 260px;
+  height: 700px;
+margin-left: 250px;
+margin-top: 137px;
+background-color: #96AFAC;
+
+}
+
+
+.menu li {
+display:block;
+font-family: sans-serif;
+font-size: 1.2rem;
+font-weight: lighter;
+padding: 15px 30px;
+  background-color: #96AFAC;
+  margin-left: -20px;
+  margin-right: 10px;
+  border-bottom: 1px solid #DBD8C5
+
+}
+
+.menu li:last-child {
+  border-bottom: none;
+}
+
+.Howwework{
+  width: 657px;
+  height: 700px;
+  margin-left: 512px;
+  margin-bottom: 600px;
+  margin-top: -700px;
+  background-color: #DBD8C5
+
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: sans-serif;
+  margin-left: 50px;
+  padding-top: 60px;
+  color: #537080
+}
+
+.text {
+margin-top: 40px;
+margin-left: 50px;
+margin-right: 20px;
+color: rgba(0, 0, 0, 0.8);
+}
